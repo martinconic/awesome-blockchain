@@ -1,6 +1,6 @@
 # awesome-blockchain
 
-A collection of blockchain and related technologies ordered based on programming languages that are built on.
+A collection of blockchain and related blockchain technologies, ordered based on programming languages that are built with.
 
 
 [C++](c++/README.md)
@@ -12,4 +12,3 @@ A collection of blockchain and related technologies ordered based on programming
 [Python](python/README.md)
 [Rust](rust/README.md)
 [Solidity](solidity/README.md)
-
