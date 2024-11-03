@@ -4,6 +4,7 @@ A collection of blockchain and related blockchain technologies, ordered based on
 
 
 [C++](c++/README.md)
+[Elixir](elixir/README.md)
 [Go](go/README.md)
 [Java](java/README.md)
 [Js](js/README.md)
